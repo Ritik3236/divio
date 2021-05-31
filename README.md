@@ -1,7 +1,7 @@
 # divio
-A django website that deployed on divio cloud
-
-step1 - Create a vertual environment
+A django website deployed on cloud based server 'www.divio.com' <br> <br>
+step for running this Dockerized web work <br>
+step1 - Create a virtual environment
 > python3 -m venv env    
 > source env/bin/activate
 
