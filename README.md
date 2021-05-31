@@ -1,5 +1,5 @@
 # divio
-A django website deployed on cloud based server 'www.divio.com' <br> <br>
+A django website(https://vsc.us.aldryn.io)  deployed on cloud based server 'www.divio.com' <br> <br>
 step for running this Dockerized web work <br>
 step1 - Create a virtual environment
 > python3 -m venv env    
