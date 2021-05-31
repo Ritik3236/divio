@@ -1,2 +1,2 @@
 # divio
-a django website that deployed on divio cloud
+A django website that deployed on divio cloud
