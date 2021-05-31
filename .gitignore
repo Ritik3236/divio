@@ -1,0 +1,22 @@
+__pycache__
+env/
+.env-local
+.idea/
+.vscode
+staticfiles/
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+*.pyc
+*.pyo
+db.sqlite3
+
+# Divio
+/data
+.divio
+/data.tar.gz

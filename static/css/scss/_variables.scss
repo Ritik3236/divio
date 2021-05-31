@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+/*===== VARIABLES CSS =====*/
+
+/*===== Colors & Background =====*/
+$primary-color:#9b1abb;
+$primary-color-dark:#9b1abb;
+$primary-color-darken:rgb(173, 7, 7);
+$secondary-color:#9b1abb;
+$secondary-color-dark:rgb(5, 179, 5);
+$secondary-color-darken:rgb(2, 95, 2);
+$white-color:#FCF8F8;
+$dark-color:#3d3632;
+$blue-color:#47a1f7;
+$ham-color: #c983c7bf;
+$divider-color-f:#4a4a59;
+$divider-color-l:#db56f8;
+$social-icon-color:#4b4b5b;
+$social-icon-color-hover:#34325e;
+$backpic: url('/static/images/back-images/back.jpg');
+
+
+/*===== Font and typography =====*/
+$body-font: 'Poppins',
+sans-serif;
+$normal-font-size: .938rem;
+$medium-font-size: 1.2rem;
+$big-font-size: 2.5rem;
+
+$font-weight:500;
+
+@media screen and (max-width: 768px) {
+    :root {
+        $normal-font-size: 1rem;
+        $medium-font-size: 1.5rem;
+        $big-font-size: 2.5rem;
+    }
+}
+
+*,
+::before,
+::after {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $body-font;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
